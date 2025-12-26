@@ -1,0 +1,8 @@
+{
+  "name": "EDU-HUB",
+  "description": "A collaborative student portal with AI-powered PDF interactions, study plan generators, and role-based material sharing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
